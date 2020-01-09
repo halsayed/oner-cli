@@ -7,11 +7,12 @@
 - git
 
 Installing the requirements
-`git clone https://github.com/halsayed/oner-cli.git
 
+~~~~
+git clone https://github.com/halsayed/oner-cli.git
 cd oner-cli
-
-pip install -r requirements.txt`
+pip install -r requirements.txt
+~~~~
 
 To run the tool:
 `python oner-cli.py`
